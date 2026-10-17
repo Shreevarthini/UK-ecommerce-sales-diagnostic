@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+# raw dataset and the generated database are not committed (download the CSV, then run the pipeline)
+data/raw/*.csv
+data/warehouse/*.db

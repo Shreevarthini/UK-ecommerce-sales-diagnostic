@@ -1,0 +1,16 @@
+{
+  "raw_rows": 536350,
+  "duplicate_rows_found": 5200,
+  "duplicate_rows_removed": 0,
+  "invalid_dates_removed": 0,
+  "non_numeric_price_or_quantity_removed": 0,
+  "zero_or_negative_price_removed": 0,
+  "missing_customer_filled_as_guest": 55,
+  "rows_after_cleaning": 536350,
+  "cancelled_lines": 8585,
+  "completed_lines": 527765,
+  "completed_transactions": 19790,
+  "completed_revenue": 62965974.34,
+  "date_min": "2018-12-01",
+  "date_max": "2019-12-09"
+}
